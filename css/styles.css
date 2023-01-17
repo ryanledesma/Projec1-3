@@ -20,11 +20,6 @@
     width: 42.857143vw;
     margin: auto;
  }
-
- .img{
-   width: auto;
-   height: auto;
- }
   
  .rectangle-3{
     display: flex;
@@ -58,4 +53,14 @@
     width: 14.285714vw;
     background-color: black;
     margin: auto;
+ }
+ 
+ .cls-1 {
+   fill: #231f20;
+ }
+          
+ .cls-2 {
+    fill: none;
+    stroke: #231f20;
+    stroke-miterlimit: 10;
  }
