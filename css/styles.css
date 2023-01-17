@@ -56,11 +56,6 @@
  }
  
  .cls-1 {
-   fill: #231f20;
+   fill: black;
  }
           
- .cls-2 {
-    fill: none;
-    stroke: #231f20;
-    stroke-miterlimit: 10;
- }
